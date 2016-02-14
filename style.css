@@ -1,0 +1,9 @@
+/* Background color of side, off-canvas section */
+#my-info {
+  background-color: none;
+}
+
+/* Background color of top, callout section */
+.callout.primary {
+  background-color: none;
+}
